@@ -2,7 +2,7 @@ package house_list
 
 import (
 	"encoding/json"
-	"lj_crawler/pkg/db"
+	"lianjia_spider/pkg/db"
 )
 
 const (

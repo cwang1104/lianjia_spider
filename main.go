@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/gocolly/colly"
-	"lj_crawler/internal/house_list"
-	"lj_crawler/pkg/db"
+	"lianjia_spider/internal/house_list"
+	"lianjia_spider/pkg/db"
 	"net/http"
 )
 

@@ -1,4 +1,4 @@
-module lj_crawler
+module lianjia_spider
 
 go 1.19
 

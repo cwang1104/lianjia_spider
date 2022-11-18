@@ -3,8 +3,8 @@ package house_list
 import (
 	"fmt"
 	"github.com/gocolly/colly"
-	"lj_crawler/pkg/db"
-	"lj_crawler/pkg/util"
+	"lianjia_spider/pkg/db"
+	"lianjia_spider/pkg/util"
 	"strconv"
 	"strings"
 	"time"
