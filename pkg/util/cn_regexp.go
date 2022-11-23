@@ -22,6 +22,7 @@ func DelSpace(s string) string {
 	return strings.ReplaceAll(s, " ", "")
 }
 
+// GetNumberStr 只要数字
 func GetNumberStr(s string) string {
 	reg := regexp.MustCompile("[^0-9]")
 	return reg.ReplaceAllString(s, "")
